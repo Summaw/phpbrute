@@ -1,2 +1,2 @@
 # phpbrute
-Fun little thing
+educational purposes only.
